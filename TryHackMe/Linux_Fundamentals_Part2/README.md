@@ -9,10 +9,10 @@ Platform: TryHackMe
 -understand permissions 
 
 ## Key Skills Learned
-How to use Secure Shell/SSH protocol to log into a linux machine.
-understanding and using commands for copying and moving files and removing and copying files.
-understanding and using commands for flags, switches and arguements.
-
+How to use Secure Shell/SSH protocols to log into a linux machine.
+Understanding and using commands for copying, moving, removing files.
+Understanding and using commands for flags, switches and arguements.
+Understanding the file systems in nuremic format R=read=4, W=write=2, X=execute=1.
 
 
 
