@@ -38,6 +38,10 @@ Platform: TryHackMe
 * 'rm'
 * 'file'
 * /etc
+* /var
+* /root
+* /tmp
+* 
 
 ## process
 - Gives an output or more folders and files that are hidden.
@@ -53,7 +57,9 @@ Platform: TryHackMe
 - Removes a file from a folder
 - File it determines the type of file
 - Root directory short for etcetera is a common place location to store system files.
-- 
+- /var being short for variable data is one of the main root folders found on a Linux install.
+- Home for the root system user.
+- short for temporary similar to RAM on a computer.
 
 
 ## Screenshots
