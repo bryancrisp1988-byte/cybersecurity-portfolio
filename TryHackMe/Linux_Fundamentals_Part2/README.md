@@ -32,7 +32,7 @@ How to use Secure Shell/SSH protocol to log into a linux machine.
 'rm'
 'file'
 
-##Process
+## process
 
 ## Screenshots
 (Add your screenshots here once uploaded)
