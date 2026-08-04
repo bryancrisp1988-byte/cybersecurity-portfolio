@@ -25,15 +25,15 @@ How to use Secure Shell/SSH protocol to log into a linux machine.
 * '-a' short for (--all)
 * 'ls'
 * '--help'
-'.'
-'man'
-'-h'
-'touch'
-'mkdir'
-'cp'
-'mv'
-'rm'
-'file'
+*'.'
+*'man'
+*'-h'
+*'touch'
+*'mkdir'
+*'cp'
+*'mv'
+*'rm'
+*'file'
 
 ## process
 - gives an output or more folders and files that are hidden.
