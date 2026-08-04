@@ -24,7 +24,10 @@ How to use Secure Shell/SSH protocol to log into a linux machine.
 ## Commands Practised
 '-a' short for (--all)
 'ls'
+'--help'
 '.'
+'man'
+'-h'
 'touch'
 'mkdir'
 'cp'
@@ -33,8 +36,20 @@ How to use Secure Shell/SSH protocol to log into a linux machine.
 'file'
 
 ## process
+- gives an output or more folders and files that are hidden.
+- list files in current directory.
+- This option will list the possible options that the command accepts.
+- files and folders that are hidden.
+- gives us the manual page.
+- human-readable from the manual page
+- creates files
+- make directory that creates a folder
+- copy that copies a file to a folder
+- move it moves a file to a folder
+- removes a file from a folder
+- file it determines the type of file
+- 
 
--Argument
 
 ## Screenshots
 (Add your screenshots here once uploaded)
