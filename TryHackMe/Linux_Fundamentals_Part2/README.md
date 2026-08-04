@@ -3,12 +3,15 @@ Platform: TryHackMe
 
 ## Objective
 -learn fundamental skills in being able to login and control the terminals of remote machine.
--unlocking the potential of the first few commands by using flags and arguements.
+-unlocking the potential of the first few commands by using flags, switches and arguements.
 -advancing knowledge of filesystems to perform more useful commands like copying and moving files.
 -discoverning how access to files and folders is managed and how we can determine our access.
+-understand permissions 
 
 ## Key Skills Learned
 How to use Secure Shell/SSH protocol to log into a linux machine.
+understanding and using commands for copying and moving files and removing and copying files.
+understanding and using commands for flags, switches and arguements.
 
 
 
