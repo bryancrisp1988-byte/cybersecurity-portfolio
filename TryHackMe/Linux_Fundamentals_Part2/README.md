@@ -37,20 +37,22 @@ Platform: TryHackMe
 * 'mv'
 * 'rm'
 * 'file'
+* /etc
 
 ## process
-- gives an output or more folders and files that are hidden.
-- list files in current directory.
+- Gives an output or more folders and files that are hidden.
+- List files in current directory.
 - This option will list the possible options that the command accepts.
-- files and folders that are hidden.
-- gives us the manual page.
-- human-readable from the manual page
-- creates files
-- make directory that creates a folder
-- copy that copies a file to a folder
-- move it moves a file to a folder
-- removes a file from a folder
-- file it determines the type of file
+- Files and folders that are hidden.
+- Gives us the manual page.
+- Human-readable from the manual page
+- Creates files
+- Make directory that creates a folder
+- Copy that copies a file to a folder
+- Move it moves a file to a folder
+- Removes a file from a folder
+- File it determines the type of file
+- Root directory short for etcetera is a common place location to store system files.
 - 
 
 
