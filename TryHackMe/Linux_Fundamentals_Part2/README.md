@@ -23,8 +23,8 @@ How to use Secure Shell/SSH protocol to log into a linux machine.
 
 ## Commands Practised
 * '-a' short for (--all)
-'ls'
-'--help'
+* 'ls'
+* '--help'
 '.'
 'man'
 '-h'
