@@ -27,11 +27,16 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ## Commands Practised
 
-* '-a'
+## Navigation & Listing
 * 'ls'
+* '-a'
+* '--help'
 * '.'
 * 'man'
 * '-h'
+
+### File & Directory Managment
+
 * 'touch'
 * 'mkdir'
 * 'cp'
@@ -39,31 +44,36 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * 'rm'
 * 'file'
 
-## Directories
+### System Directories
   
 * /etc
 * /var
 * /root
 * /tmp
 
-## Process
+## Processes
 
-- Gives an output of more folders and files that are hidden.
-- List files in the current directory.
-- This option will list the possible options that the command accepts.
-- Files and folders that are hidden.
-- Gives us the manual page.
-- Human-readable from the manual page
-- Creates files
-- Directory that creates a folder
-- Copy that copies a file to a folder
-- Move it moves a file to a folder
-- Removes a file from a folder
-- Determines the type of file
-- Root directory short for etcetera is a common place location to store system files.
-- Short for 'variable data' is one of the main root folders found on a Linux install.
-- Home for the root system user.
-- Short for temporary similar to RAM on a computer.
+Process
+
+## Command Explanations
+
+ls        - List files in the current directory  
+-a        - Show hidden files  
+--help    - Show available options for a command  
+.         - Current directory  
+man       - Open the manual page  
+-h        - Human-readable output  
+touch     - Create a file  
+mkdir     - Create a directory  
+cp        - Copy a file  
+mv        - Move a file  
+rm        - Remove a file  
+file      - Determine the type of a file  
+/etc      - System configuration files  
+/var      - Variable data  
+/root     - Home directory for the root user  
+/tmp      - Temporary storage  
+process   - Viewing running processes
 
 ## Screenshots
 
