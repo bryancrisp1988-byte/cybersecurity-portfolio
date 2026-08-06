@@ -22,13 +22,13 @@ echo      - Print text to the terminal or into a file
 
 find   - Search for files and directories  
 grep   - Search for text inside files  
-*  -  Wildcard used to match multiple files
+'*'  -  Wildcard used to match multiple files
 
 ### Redirection Operators
 
-> redirect output and overwrite file.
+'>' redirect output and overwrite file.
  
- >>  Redirect output and append to a file
+'>>' Redirect output and append to a file
 
 ### User Identification
 
