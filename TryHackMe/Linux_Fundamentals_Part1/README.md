@@ -26,8 +26,7 @@ grep   - Search for text inside files
 
 ### Redirection Operators
 
-'>' redirect output and overwrite file.
- 
+'>' Redirect output and overwrite file.
 '>>' Redirect output and append to a file
 
 ### User Identification
@@ -35,6 +34,7 @@ grep   - Search for text inside files
 whoami    - Display the current logged‑in user
 
 ## Process
+
 1. Output any text that we provide.
 2. Finds out what user we're currently logged in as.
 3. List files in the current directory.
@@ -47,6 +47,7 @@ whoami    - Display the current logged‑in user
 10. '*' is wildcard and searches for anything that has a .txt at the end  
 
 ## Lessons Learned
+
 - How to use some of the most fundamental commands.
 - Introduction on how to navigate file systems using commands.
 - How some shell operators work and how to use them.
