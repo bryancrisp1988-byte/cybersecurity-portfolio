@@ -46,8 +46,8 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ## process
 
-- Gives an output or more folders and files that are hidden.
-- List files in current directory.
+- Gives an output of more folders and files that are hidden.
+- List files in the current directory.
 - This option will list the possible options that the command accepts.
 - Files and folders that are hidden.
 - Gives us the manual page.
@@ -70,19 +70,19 @@ uploaded.
 
 ## Tasks Completed
 
-* explored the manual page of the Ls command.
+* Explored the manual page of the Ls command.
 * Basic navigation of the manual page.
 * Finding and identifying a flag and displaying the output in a 'Human-readable' way.
-* understanding and creating a file name.
-* finding and understanding a file type and it's use on the home directory.
-* understanding and moving a file to the directory folder.
+* Understanding and creating a file name.
+* Finding and understanding a file type and it's use on the home directory.
+* Understanding and moving a file to the directory folder.
 * Identifying the content on the 'Myfile' and showing its display.
 * On the deployable machine understanding who the owner of 'important'.
-* understanding and displaying the command to switch to 'user2'.
-* outputting the content of 'important' and displaying it's flag.
-* displaying the directory path that logs are stored in.
-* understanding what root directory is similar to RAM.
-* understanding the home directory of the root user.
+* Understanding and displaying the command to switch to 'user2'.
+* Outputting the content of 'important' and displaying it's flag.
+* Displaying the directory path that logs are stored in.
+* Understanding the root directory is similar to RAM.
+* Understanding the home directory of the root user.
 
 ## Reflection
 
