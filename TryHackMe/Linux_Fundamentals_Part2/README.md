@@ -92,7 +92,7 @@ Uploaded.
 * Understanding and displaying the command to switch to 'user2'.
 * Outputting the content of 'important' and displaying its flag.
 * Displaying the directory path logs are stored.
-* Understanding the /tmp root directory is similar to RAM.
+* Understanding the /tmp directory is similar to RAM.
 * Understanding the home directory of the root user.
 
 ## Reflection
