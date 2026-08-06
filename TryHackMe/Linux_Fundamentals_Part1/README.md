@@ -1,6 +1,13 @@
 # TryHackMe — Linux Fundamentals Part 1
 
+### Plaform: Tryahackme
+
+### Intro
+
+
+
 ## Objective
+
 Learn basic Linux navigation commands to interact with file systems.
 Demonstrate how you can search for files and introduce shell operators.
 
