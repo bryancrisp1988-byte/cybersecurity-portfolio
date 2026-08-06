@@ -19,7 +19,10 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * How to use Secure Shell/SSH protocols to log into a Linux machine.
 * Understanding and using commands for copying, moving, removing files.
 * Advancing my use of commands by providing flags, switches and where I can go to learn about these for each command (man pages). 
-* Understanding the file systems basic nuremic format R=read=4, W=write=2, X=execute=1.
+* Understanding the file systems basic numeric format
+    * R=read=4,
+    * W=write=2,
+    * X=execute=1.
 * Brief introduction to file permissions & switching users.
 
 ## Commands Practised
