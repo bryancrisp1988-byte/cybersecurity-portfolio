@@ -26,7 +26,7 @@ grep   - Search for text inside files
 
 ### Redirection Operators
 
- >  Redirect output and overwrite a file
+> redirect output and overwrite file.
  
  >>  Redirect output and append to a file
 
