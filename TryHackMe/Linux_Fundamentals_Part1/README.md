@@ -1,15 +1,15 @@
 # TryHackMe — Linux Fundamentals Part 1
 
-### Plaform: Tryahackme
+### Platform: Tryahackme
 
 ### Intro
 
-
+This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part 1 room, focusing on basic Linux navigation commands to interact
 
 ## Objective
 
-Learn basic Linux navigation commands to interact with file systems.
-Demonstrate how you can search for files and introduce shell operators.
+* Learn basic Linux navigation commands to interact with file systems.
+* Demonstrate how you can search for files and introduce shell operators.
 
 ## Commands/ symbols Used
 
