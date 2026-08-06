@@ -38,6 +38,9 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * 'mv'
 * 'rm'
 * 'file'
+
+## Directories
+  
 * /etc
 * /var
 * /root
