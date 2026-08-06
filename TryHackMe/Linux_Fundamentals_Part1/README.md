@@ -39,6 +39,8 @@ Used to locate files, search inside files, and match patterns using wildcards.
 
 ### Redirection Operators
 
+Used to control where command output goes — either overwriting or appending to files.
+
 * '>' Redirect output and overwrite file.
 * '>>' Redirect output and append to a file.
 
