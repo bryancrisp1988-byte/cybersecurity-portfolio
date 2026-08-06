@@ -15,20 +15,20 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ### Navigation & Directory movement
 
-* cd        - Change directory  
-* pwd       - Print the current working directory  
-* ls        - List files in the current directory  
-* ls -R     - Recursively list files and directories
+* 'cd'        - Change directory  
+* 'pwd'       - Print the current working directory  
+* 'ls'        - List files in the current directory  
+* 'ls -R'     - Recursively list files and directories
 
 ### Viewing and Reading files
 
-* cat       - Display the contents of a file.  
-* echo      - Print text to the terminal or into a file.
+* 'cat'       - Display the contents of a file.  
+* 'echo'      - Print text to the terminal or into a file.
 
 ### Searching and Filtering
 
-* find   - Search for files and directories.  
-* grep   - Search for text inside files. 
+* 'find'   - Search for files and directories.  
+* 'grep'   - Search for text inside files. 
 * '*'  -  Wildcard used to match multiple files.
 
 ### Redirection Operators
@@ -38,7 +38,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ### User Identification
 
-* whoami    - Display the current logged‑in user.
+* 'whoami'    - Display the current logged‑in user.
 
 ## Process
 
