@@ -46,6 +46,8 @@ Used to control where command output goes — either overwriting or appending to
 
 ### User Identification
 
+Used to check which user account is currently active on the system.
+
 * 'whoami'    - Display the current logged‑in user.
 
 ## Process
