@@ -24,6 +24,8 @@ Used to move around the filesystem and understand your current location.
 
 ### Viewing and Reading files
 
+Used to display text, inspect file contents, or print output to the terminal.
+
 * 'cat'       - Display the contents of a file.  
 * 'echo'      - Print text to the terminal or into a file.
 
