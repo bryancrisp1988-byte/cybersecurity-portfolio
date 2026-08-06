@@ -1,6 +1,6 @@
 # TryHackMe — Linux Fundamentals Part 1
 
-### Platform: Tryahackme
+### Platform: Tryhackme
 
 ### Intro
 
