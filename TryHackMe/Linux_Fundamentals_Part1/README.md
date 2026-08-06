@@ -4,14 +4,14 @@
 
 ### Intro
 
-This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part 1 room, focusing on basic Linux navigation commands to interact
+This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part 1 room, focusing on basic Linux commands from navigation & directory movement, viewing and reading files, searching and filtering. Using basic redirection operators.
 
 ## Objective
 
 * Learn basic Linux navigation commands to interact with file systems.
 * Demonstrate how you can search for files and introduce shell operators.
 
-## Commands/ symbols Used
+## Commands
 
 ### Navigation & Directory movement
 
