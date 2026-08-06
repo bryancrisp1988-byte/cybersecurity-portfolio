@@ -1,4 +1,5 @@
 # Linux Fundamentals Part 2
+
 Platform: TryHackMe
 
 ## Intro
@@ -6,6 +7,7 @@ Platform: TryHackMe
 This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part 2 room, focusing on permissions, users, groups, processes, and services.
 
 ## Objective
+
 * Learn fundamental skills in being able to login and control the terminals of remote machine.
 * Unlocking the potential of the first few commands by using flags, switches and understand arguments are height lighted by hyphen and certain flags and switches.
 * Advancing knowledge of filesystems to perform more useful commands like copying and moving files.
@@ -13,6 +15,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * Understand permissions 
 
 ## Key Skills Learned
+
 * How to use Secure Shell/SSH protocols to log into a Linux machine.
 * Understanding and using commands for copying, moving, removing files.
 * Advancing my use of commands by providing flags, switches and where I can go to learn about these for each command (man pages). 
@@ -20,6 +23,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * Brief introduction to file permissions & switching users.
 
 ## Commands Practised
+
 * '-a' short for (--all)
 * 'ls'
 * '--help'
@@ -38,6 +42,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * /tmp
 
 ## process
+
 - Gives an output or more folders and files that are hidden.
 - List files in current directory.
 - This option will list the possible options that the command accepts.
@@ -57,7 +62,8 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 
 ## Screenshots
-(Add your screenshots here once uploaded)
+
+uploaded.
 
 ## Tasks Completed
 
@@ -75,5 +81,10 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * understanding what root directory is similar to RAM.
 * understanding the home directory of the root user.
 
+## Reflection
+
+This room improved my confidence with Linux permissions and user management, and I now feel more comfortable navigating and administering Linux systems.
+
 ## Status
+
 complete
