@@ -73,13 +73,13 @@ Uploaded.
 * Basic navigation of the manual page.
 * Finding and identifying a flag and displaying the output in a 'Human-readable' way.
 * Understanding and creating a file name.
-* Finding and understanding a file type and it's use on the home directory.
+* Finding and understanding a file type and its use in the home directory.
 * Understanding and moving a file to the directory folder.
 * Identifying the content on the 'Myfile' and showing its display.
-* On the deployable machine understanding who the owner of 'important'.
+* On the deployable machine understanding who the owner of 'important' is.
 * Understanding and displaying the command to switch to 'user2'.
-* Outputting the content of 'important' and displaying it's flag.
-* Displaying the directory path that logs are stored in.
+* Outputting the content of 'important' and displaying its flag.
+* Displaying the directory path logs are stored.
 * Understanding the root directory is similar to RAM.
 * Understanding the home directory of the root user.
 
