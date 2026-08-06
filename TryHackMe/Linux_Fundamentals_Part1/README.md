@@ -20,14 +20,14 @@ echo      - Print text to the terminal or into a file
 
 ### Searching and Filtering
 
-find      - Search for files and directories  
-grep      - Search for text inside files  
-*         - Wildcard used to match multiple files
+find   - Search for files and directories  
+grep   - Search for text inside files  
+*  - Wildcard used to match multiple files
 
 ### Redirection Operators
 
->         - Redirect output and overwrite a file  
->>        - Redirect output and append to a file
+>  - Redirect output and overwrite a file  
+>>  - Redirect output and append to a file
 
 ### User Identification
 
