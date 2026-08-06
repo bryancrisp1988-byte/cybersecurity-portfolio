@@ -31,6 +31,8 @@ Used to display text, inspect file contents, or print output to the terminal.
 
 ### Searching and Filtering
 
+Used to locate files, search inside files, and match patterns using wildcards.
+
 * 'find'   - Search for files and directories.  
 * 'grep'   - Search for text inside files. 
 * '*'  -  Wildcard used to match multiple files.
