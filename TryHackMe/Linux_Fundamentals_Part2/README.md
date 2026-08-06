@@ -44,7 +44,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 * /root
 * /tmp
 
-## process
+## Process
 
 - Gives an output of more folders and files that are hidden.
 - List files in the current directory.
@@ -65,7 +65,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ## Screenshots
 
-uploaded.
+Uploaded.
 
 ## Tasks Completed
 
@@ -89,4 +89,4 @@ This room improved my confidence with Linux permissions and user management, and
 
 ## Status
 
-complete
+Complete
