@@ -53,15 +53,15 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 - Gives us the manual page.
 - Human-readable from the manual page
 - Creates files
-- Make directory that creates a folder
+- Directory that creates a folder
 - Copy that copies a file to a folder
 - Move it moves a file to a folder
 - Removes a file from a folder
 - File it determines the type of file
-- Root directory short for etcetera is a common place location to store system files.
-- /var being short for variable data is one of the main root folders found on a Linux install.
+- Root directory short for 'etcetera' is a common place location to store system files.
+- /var short for 'variable data' is one of the main root folders found on a Linux install.
 - Home for the root system user.
-- short for temporary similar to RAM on a computer.
+- Short for temporary similar to RAM on a computer.
 
 
 ## Screenshots
