@@ -27,7 +27,7 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ## Commands Practised
 
-* '-a' short for (--all)
+* '-a'
 * 'ls'
 * '--help'
 * '.'
