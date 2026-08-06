@@ -15,6 +15,8 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ### Navigation & Directory movement
 
+Used to move around the filesystem and understand your current location.
+
 * 'cd'        - Change directory  
 * 'pwd'       - Print the current working directory  
 * 'ls'        - List files in the current directory  
