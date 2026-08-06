@@ -8,8 +8,8 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 ## Objective
 
-* Learn fundamental skills in being able to login and control the terminals of remote machine.
-* Unlocking the potential of the first few commands by using flags, switches and understand arguments are height lighted by hyphen and certain flags and switches.
+* Learn fundamental skills in being able to log in and control the terminals of remote machines.
+* Unlocking the potential of the first few commands by using flags, switches, and understanding that arguments are highlighted by hyphens and certain flags and switches.
 * Advancing knowledge of filesystems to perform more useful commands like copying and moving files.
 * Discovering how access to files and folders is managed and how we can determine our access.
 * Understand permissions 
@@ -17,9 +17,9 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 ## Key Skills Learned
 
 * How to use Secure Shell/SSH protocols to log into a Linux machine.
-* Understanding and using commands for copying, moving, removing files.
-* Advancing my use of commands by providing flags, switches and where I can go to learn about these for each command (man pages). 
-* Understanding the file systems basic numeric format
+* Understanding and using commands for copying, moving, re-moving files.
+* Advancing my use of commands by providing flags & switches & where I can go to learn about these for each command (man pages). 
+* Understanding the file system's basic numeric format.
     * R=read=4,
     * W=write=2,
     * X=execute=1.
@@ -57,12 +57,11 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 - Copy that copies a file to a folder
 - Move it moves a file to a folder
 - Removes a file from a folder
-- File it determines the type of file
-- Root directory short for 'etcetera' is a common place location to store system files.
+- 'File' determines the type of file
+- Root directory short for etcetera is a common place location to store system files.
 - /var short for 'variable data' is one of the main root folders found on a Linux install.
 - Home for the root system user.
 - Short for temporary similar to RAM on a computer.
-
 
 ## Screenshots
 
