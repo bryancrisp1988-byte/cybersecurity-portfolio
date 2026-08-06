@@ -1,6 +1,10 @@
 # Linux Fundamentals Part 2
 Platform: TryHackMe
 
+## Intro
+
+This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part 2 room, focusing on permissions, users, groups, processes, and services.
+
 ## Objective
 * Learn fundamental skills in being able to login and control the terminals of remote machine.
 * Unlocking the potential of the first few commands by using flags, switches and understand arguments are height lighted by hyphen and certain flags and switches.
