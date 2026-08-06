@@ -29,7 +29,6 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 
 * '-a'
 * 'ls'
-* '--help'
 * '.'
 * 'man'
 * '-h'
@@ -57,9 +56,9 @@ This write‑up documents my completion of TryHackMe’s Linux Fundamentals Part
 - Copy that copies a file to a folder
 - Move it moves a file to a folder
 - Removes a file from a folder
-- 'File' determines the type of file
+- Determines the type of file
 - Root directory short for etcetera is a common place location to store system files.
-- /var short for 'variable data' is one of the main root folders found on a Linux install.
+- Short for 'variable data' is one of the main root folders found on a Linux install.
 - Home for the root system user.
 - Short for temporary similar to RAM on a computer.
 
