@@ -22,23 +22,23 @@ ls -R     - Recursively list files and directories
 
 ### Viewing and Reading files
 
-cat       - Display the contents of a file  
-echo      - Print text to the terminal or into a file
+cat       - Display the contents of a file.  
+echo      - Print text to the terminal or into a file.
 
 ### Searching and Filtering
 
-find   - Search for files and directories  
-grep   - Search for text inside files  
-'*'  -  Wildcard used to match multiple files
+find   - Search for files and directories.  
+grep   - Search for text inside files. 
+'*'  -  Wildcard used to match multiple files.
 
 ### Redirection Operators
 
 '>' Redirect output and overwrite file.
-'>>' Redirect output and append to a file
+'>>' Redirect output and append to a file.
 
 ### User Identification
 
-whoami    - Display the current logged‑in user
+whoami    - Display the current logged‑in user.
 
 ## Process
 
@@ -51,7 +51,7 @@ whoami    - Display the current logged‑in user
 7. Search for files across the entire system.
 8. Search the content of files for specific values.
 9. Helps grep search 'recursively' through all files and subdirectories.
-10. '*' is wildcard and searches for anything that has a .txt at the end  
+10. '*' is wildcard and searches for anything that has a .txt at the end.  
 
 ## Lessons Learned
 
@@ -60,7 +60,11 @@ whoami    - Display the current logged‑in user
 - How some shell operators work and how to use them.
 
 ## Screenshots
+
 (Add your screenshots here)
 
-## Summary
+## Reflection
 I interacted with my first ever Linux machine, ran some of the most fundamental commands, had an introduction on how to navigate file systems, using commands like 'grep' to find data more efficiently, learning about some of the important shell operators.
+
+### Status
+Complete.
