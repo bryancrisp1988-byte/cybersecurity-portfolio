@@ -12,7 +12,7 @@ This lesson introduces binary numbers, logic gates, and how computers make decis
 
 ## Practical Understanding
 - All digital systems operate using binary.
-- Logic gates form the foundation of processors and memory.
+- Logic gates form the foundation of processors and memory, Logic gates allow our transistors to do more complex tasks like decide where to send electrical signals depending on logical conditions.
 - Understanding digital logic helps with diagnosing hardware and low-level software issues.
 
 ## Real‑World Relevance
