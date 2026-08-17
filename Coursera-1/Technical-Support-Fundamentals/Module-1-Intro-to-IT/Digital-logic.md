@@ -5,7 +5,7 @@ This lesson introduces binary numbers, logic gates, and how computers make decis
 
 ## Key Learning Points
 - Binary representation (0s and 1s)
-- Logic gates: AND, OR, NOT, XOR
+- Logic gates: AND, OR, NOT, XOR, The truth tables for XOR and OR gates are very similar. The only difference is that the XOR gate outputs an “off” when both inputs are “on” while the OR outputs an “on.” Sometimes you may hear the XOR gate referred to as an “exclusive OR” gate.
 - Logic gates are electrical components that tell a computer how to perform binary calculations.
 - Truth tables and how gates evaluate conditions
 - How gates combine to form circuits
