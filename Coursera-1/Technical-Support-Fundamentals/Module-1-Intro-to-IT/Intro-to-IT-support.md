@@ -23,5 +23,5 @@ IT support forms the foundation for careers in:
 - Technical operations  
 
 ## Personal Reflection
-Notes on what I learned, what surprised me, and how this knowledge supports my cybersecurity journey.
+I learnt that IT specialists responsabilities include managing, maintaining, installing, troubleshooting and configuring technological equipment, In support of my cybersecurity journey I know I need to understand how these machines work to understand and implement that knowledge in cybersecurity.
 
