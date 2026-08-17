@@ -26,15 +26,21 @@ Why this example is relevant:
 It connects directly to the layered computer architecture concept.
 It reflects a real-world IT support situation where understanding hardware, OS, software, and user interaction is crucial.
 It aligns with my interest in cybersecurity and system security, as performance issues can sometimes be linked to security vulnerabilities or malware.
+
 ** Breakdown:
 
 1 Hardware Layer: You check if the laptop's physical components (like RAM, hard drive) are functioning properly or if there is any hardware failure causing slow performance.
-2 Operating System Layer: You verify if the OS (e.g., Windows) is up to date, check for corrupted system files, or if there are driver conflicts affecting hardware communication.
-3 Software Layer: You examine the production scheduling software for bugs, compatibility issues, or if recent updates have caused instability.
-4 User Layer: You communicate with the manager to understand how they use the laptop, any recent changes they made, or if they noticed specific triggers for the crashes.
+
+2 Operating System Layer: I verify if the OS (e.g., Windows) is up to date, check for corrupted system files, or if there are driver conflicts affecting hardware communication.
+
+3 Software Layer: I examine the production scheduling software for bugs, compatibility issues, or if recent updates have caused instability.
+
+4 User Layer: I communicate with the manager to understand how they use the laptop, any recent changes they made, or if they noticed specific triggers for the crashes.
+
 ** Application:
-By understanding these layers, you can systematically identify the root cause—whether it's a failing hard drive, outdated OS, buggy software, or user error.
-This approach helps you apply problem-solving tactics to resolve the issue efficiently, which is a vital skill in IT and cybersecurity roles.
+
+By understanding these layers, I can systematically identify the root cause—whether it's a failing hard drive, outdated OS, buggy software, or user error.
+This approach helps me apply problem-solving tactics to resolve the issue efficiently, which is a vital skill in IT and cybersecurity roles.
 - Identifying where issues originate
 - Understanding how malware targets specific layers
 - Designing secure systems
