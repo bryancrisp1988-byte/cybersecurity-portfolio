@@ -5,7 +5,7 @@ This lesson introduces binary numbers, logic gates, and how computers make decis
 
 ## Key Learning Points
 - Binary representation (0s and 1s)
-- Logic gates: AND, OR, NOT, XOR, The truth tables for XOR and OR gates are very similar. The only difference is that the XOR gate outputs an “off” when both inputs are “on” while the OR outputs an “on.” Sometimes you may hear the XOR gate referred to as an “exclusive OR” gate.
+- Logic gates: AND, OR, NOT, XOR, The truth tables for XOR and OR gates are very similar.
 - Logic gates are electrical components that tell a computer how to perform binary calculations.
 - Truth tables and how gates evaluate conditions
 - How gates combine to form circuits
@@ -14,6 +14,8 @@ This lesson introduces binary numbers, logic gates, and how computers make decis
 ## Practical Understanding
 - All digital systems operate using binary. Like the punch card a hole represents 1 and no hole represnts 0 or and light switch that is on represents 1 and a lights switch represents 0.
 - Logic gates form the foundation of processors and memory, Logic gates allow our transistors to do more complex tasks like decide where to send electrical signals depending on logical conditions.
+- The only difference is that the XOR gate outputs an “off” when both inputs are “on” while the OR outputs an “on.” Sometimes you may hear the XOR gate referred to as an “exclusive OR” gate.
+- If you compare the truth tables for the NAND and AND gates, you may notice that the NAND outputs are the opposite of the AND outputs. This is because the NAND rule is just a combination of the AND and NOT rules: it takes the AND output and runs it through the NOT rule! For this reason, you might hear the NAND referred to as a “not-AND” gate.
 - Understanding digital logic helps with diagnosing hardware and low-level software issues.
 
 ## Real‑World Relevance
