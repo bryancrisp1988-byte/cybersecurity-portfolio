@@ -12,15 +12,15 @@ This lesson explores how computing evolved from early mechanical tools to modern
 
 ## Practical Understanding
 - Modern computers are built on decades of innovation.
-- Many current IT concepts (memory, processing, logic) originate from early designs.
+- Many current IT concepts (memory, processing, logic) originate from early designs the abacus and the mechanical calculator to the analytical engine.
 - Understanding history helps explain why systems work the way they do today.
 
 ## Real‑World Relevance
 Historical context helps with:
 - Understanding legacy systems still used in businesses
-- Appreciating how cybersecurity threats evolved
-- Recognising why certain architectures and protocols exist
+- Appreciating how cybersecurity threats evolved from advancements in things like Cryptography.
+- the development of table top computers, Atari games and PDA's.
 
 ## Personal Reflection
-Thoughts on how computing history shapes today’s IT and cybersecurity landscape.
+Linux
 
